@@ -1,0 +1,3 @@
+PIC 16F84||pic_16f84.png
+PIC 16F628||pic_16f628.png
+CNY70||cny70.png
